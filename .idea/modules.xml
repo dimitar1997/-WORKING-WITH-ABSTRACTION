@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ WORKING WITH ABSTRACTION.iml" filepath="$PROJECT_DIR$/ WORKING WITH ABSTRACTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Point in Rectangle/3. Point in Rectangle.iml" filepath="$PROJECT_DIR$/3. Point in Rectangle/3. Point in Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Student System/4. Student System.iml" filepath="$PROJECT_DIR$/4. Student System/4. Student System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Hotel Reservation/5. Hotel Reservation.iml" filepath="$PROJECT_DIR$/5. Hotel Reservation/5. Hotel Reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Card Suit/Card Suit.iml" filepath="$PROJECT_DIR$/Card Suit/Card Suit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy Times/Greedy Times.iml" filepath="$PROJECT_DIR$/Greedy Times/Greedy Times.iml" />
+    </modules>
+  </component>
+</project>
